@@ -1,0 +1,23 @@
+[
+  {
+    "lat": 32.715736, 
+    "lon": -117.161087,
+    "area": "San Diego",
+    "color": "#FF1968",
+    "abbrev": "SD"
+  },
+  {
+    "lat": 37.773972,
+    "lon": -122.431297,
+    "area": "San Francisco",
+    "color": "#20d9ba",
+    "abbrev": "SF"
+  },
+  {
+    "lat": 47.614164,
+    "lon": -122.324763,
+    "area": "Seattle",
+    "color": "#9017e6",
+    "abbrev": "SEA"
+  }
+]

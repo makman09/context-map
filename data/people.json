@@ -1,0 +1,100 @@
+[
+    {
+        "color": "#FF1968",
+        "image": "https://i.imgur.com/xO8WdTx.jpg",
+        "lat": 33.123442451227604,
+        "lon": -116.36526428972176,
+        "name": "Surfer"
+    },
+    {
+        "color": "#FF1968",
+        "image": "https://i.imgur.com/ODzyZiw.jpg",
+        "lat": 34.38968698743094,
+        "lon": -116.5631541596383,
+        "name": "Huwate Yeerna"
+    },
+    {
+        "color": "#FF1968",
+        "image": "https://i.imgur.com/fXiidkr.png",
+        "lat": 33.454868946483124,
+        "lon": -116.96157264123441,
+        "name": "Pablo Tamayo"
+    },
+    {
+        "color": "#FF1968",
+        "image": "https://i.imgur.com/Zt0fooL.jpg",
+        "lat": 32.917710863161425,
+        "lon": -116.3578057372666,
+        "name": "Mustafa Ahmed Khan"
+    },
+    {
+        "color": "#FF1968",
+        "image": "https://i.imgur.com/V9KHXXa.png",
+        "lat": 33.632609780176494,
+        "lon": -116.68748576608405,
+        "name": "William Kim"
+    },
+    {
+        "color": "#20d9ba",
+        "image": "https://i.imgur.com/s3fYlUY.jpg",
+        "lat": 38.49345785697069,
+        "lon": -122.24686904314996,
+        "name": "Software Engineer"
+    },
+    {
+        "color": "#20d9ba",
+        "image": "https://i.imgur.com/ZFsA7Ii.jpg",
+        "lat": 37.963680044452204,
+        "lon": -121.6848790876352,
+        "name": "Elon Musk"
+    },
+    {
+        "color": "#20d9ba",
+        "image": "https://i.imgur.com/IegRE9Y.jpg",
+        "lat": 39.14157388971651,
+        "lon": -121.74913875108963,
+        "name": "Tim Cook"
+    },
+    {
+        "color": "#20d9ba",
+        "image": "https://i.imgur.com/5eszQ82.jpg",
+        "lat": 38.101175588253014,
+        "lon": -122.10478536485623,
+        "name": "Steph Curry"
+    },
+    {
+        "color": "#20d9ba",
+        "image": "https://i.imgur.com/Uaqwc3v.jpg",
+        "lat": 39.07711013380875,
+        "lon": -122.27567152052525,
+        "name": "Mark Zuckerberg"
+    },
+    {
+        "color": "#9017e6",
+        "image": "https://i.imgur.com/70cTzLY.jpg",
+        "lat": 48.623650711272326,
+        "lon": -122.00185508744406,
+        "name": "Bill Gates"
+    },
+    {
+        "color": "#9017e6",
+        "image": "https://i.imgur.com/PYYC6mn.jpg",
+        "lat": 47.99257206685175,
+        "lon": -121.25285986596415,
+        "name": "Jeff Bezos"
+    },
+    {
+        "color": "#9017e6",
+        "image": "https://i.imgur.com/rF9fwfE.jpg",
+        "lat": 47.99892219620061,
+        "lon": -122.09556717472167,
+        "name": "Techie Person"
+    },
+    {
+        "color": "#9017e6",
+        "image": "https://i.imgur.com/38NeWcJ.png",
+        "lat": 48.284440131921215,
+        "lon": -121.73240672254575,
+        "name": "Hipster"
+    }
+]

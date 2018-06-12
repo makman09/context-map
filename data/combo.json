@@ -1,0 +1,38 @@
+[
+	{
+		"start": {
+			"lat": 32.715736,
+			"lon": -117.161087,
+			"place": "San Diego"
+		},
+		"end": {
+			"lat": 37.773972,
+			"lon": -122.431297,
+			"place": "San Francisco"
+		}
+	},
+	{
+		"start": {
+			"lat": 37.773972,
+			"lon": -122.431297,
+			"place": "San Francisco"
+		},
+		"end": {
+			"lat": 47.614164,
+			"lon": -122.324763,
+			"place": "Seattle"
+		}
+	},
+	{
+		"start": {
+			"lat": 32.715736,
+			"lon": -117.161087,
+			"place": "San Diego"
+		},
+		"end": {
+			"lat": 47.614164,
+			"lon": -122.324763,
+			"place": "Seattle"
+		}
+	}
+]

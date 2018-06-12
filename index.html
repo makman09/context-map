@@ -1,1 +1,48 @@
-My Page
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+	<link rel="stylesheet" href="https://unpkg.com/tachyons@4.10.0/css/tachyons.min.css"/>
+	<link rel="stylesheet" href="index.css"/>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.17/d3.js"></script>
+	<script src="d3_vis_demo.js"></script>
+</head>
+<body class="w-100 sans-serif">
+	<main class="w-100 bt b--black-10 bg-white">
+		<section class="cf ph3 ph5-ns pb5 bg-yellow black-70" id="features">
+		  <div class="mw9 center">
+		    <h1 class="fl w-100 mt5 f5 ttu tracked fw6">Visualization by Mustafa Khan</h1>
+		    <article class="pv2 fl w-100 ">
+		      <h2 class="f4 f1-ns fw6 mb2">D3 based data visualization of a context map</h2>
+		      <p class="f5 f4-ns measure lh-copy mt0">
+						A context map is a visualization that explain why certain markers (entities)
+						on a map gravtitate toward black dots which represent context.
+						A context map is made by feeding multiple matrices of data like income, popularity, and cultural importance
+						through a technique called negative matrix factoriation.
+		      </p>
+		    </article>
+		    <div class="cf">
+		      <article class="pv2 fl w-100 w-50-l pr0 pr2-l">
+		        <h2 class="f4 f2-ns fw6 mb2">Feature Map</h2>
+						<div class="vis_container sample-demo flex justify-start mt2">
+				  	</div>
+		      </article>
+		      <article class="pv2 fl w-100 w-50-l pl0 pl2-l">
+		        <h2 class="f4 f2-ns fw6 mb2">Sample Map</h2>
+						<div class="vis_container feature-demo flex justify-start mt2">
+				  	</div>
+		      </article>
+		    </div>
+		  </div>
+		</section>
+	</main>
+	<script type="text/javascript">
+		let sample = new ContextMap("div.sample-demo", "people")
+		sample.buildMap()
+		let feature = new ContextMap("div.feature-demo", "places")
+		feature.buildMap()
+	</script>
+</body>
+</html>

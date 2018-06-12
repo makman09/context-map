@@ -1,0 +1,135 @@
+[
+    {
+        "color": "#FF1968",
+        "image": "https://i.imgur.com/cm9trkQ.png",
+        "lat": 33.23858239146249,
+        "lon": -116.44691149532945,
+        "name": "Biotech Startup"
+    },
+    {
+        "color": "#FF1968",
+        "image": "https://i.imgur.com/Fqp1FmK.jpg",
+        "lat": 33.773904227869295,
+        "lon": -116.24036487639928,
+        "name": "Illumina"
+    },
+    {
+        "color": "#FF1968",
+        "image": "https://i.imgur.com/aDQlzbs.jpg",
+        "lat": 34.33627957753032,
+        "lon": -117.08165126795663,
+        "name": "Fish Taco"
+    },
+    {
+        "color": "#FF1968",
+        "image": "https://i.imgur.com/Qc7Ym2a.png",
+        "lat": 34.10795039956335,
+        "lon": -117.04771648996018,
+        "name": "UCLA"
+    },
+    {
+        "color": "#FF1968",
+        "image": "https://i.imgur.com/38SS4rT.jpg",
+        "lat": 34.21312196479408,
+        "lon": -116.18381749750118,
+        "name": "UCSD Moores Cancer Center"
+    },
+    {
+        "color": "#FF1968",
+        "image": "https://i.imgur.com/TepyD7Q.jpg",
+        "lat": 34.03755443094329,
+        "lon": -117.10437409114537,
+        "name": "Disney Land"
+    },
+    {
+        "color": "#FF1968",
+        "image": "https://i.imgur.com/9nmLjz4.png",
+        "lat": 34.46387755105548,
+        "lon": -116.78645431370626,
+        "name": "San Diego Zoo"
+    },
+    {
+        "color": "#FF1968",
+        "image": "https://i.imgur.com/90LchkB.jpg",
+        "lat": 34.66291902208771,
+        "lon": -116.18225019746427,
+        "name": "Oscar's Mexican Seafood"
+    },
+    {
+        "color": "#20d9ba",
+        "image": "https://i.imgur.com/t0zgZAE.jpg",
+        "lat": 37.875633126906095,
+        "lon": -121.4764733555305,
+        "name": "Philz Coffee"
+    },
+    {
+        "color": "#20d9ba",
+        "image": "https://i.imgur.com/1dlR29E.png",
+        "lat": 38.89387821886323,
+        "lon": -121.42961731251488,
+        "name": "Google"
+    },
+    {
+        "color": "#20d9ba",
+        "image": "https://i.imgur.com/6aslQOu.png",
+        "lat": 38.08588193197725,
+        "lon": -121.88815543522777,
+        "name": "Facebook"
+    },
+    {
+        "color": "#20d9ba",
+        "image": "https://i.imgur.com/6XoU8bn.png",
+        "lat": 37.898490689719104,
+        "lon": -122.23930751337643,
+        "name": "Apple"
+    },
+    {
+        "color": "#20d9ba",
+        "image": "https://i.imgur.com/Uz0Uavr.jpg",
+        "lat": 37.949773186758684,
+        "lon": -121.25382437314857,
+        "name": "UC Berkeley"
+    },
+    {
+        "color": "#20d9ba",
+        "image": "https://i.imgur.com/bcSXP6J.png",
+        "lat": 39.11934838080906,
+        "lon": -121.1022208156617,
+        "name": "Stanford"
+    },
+    {
+        "color": "#20d9ba",
+        "image": "https://i.imgur.com/mw3iDzZ.jpg",
+        "lat": 38.05641314893511,
+        "lon": -121.31433973858613,
+        "name": "UC San Francisco"
+    },
+    {
+        "color": "#9017e6",
+        "image": "https://i.imgur.com/iOdmP3e.jpg",
+        "lat": 47.282010516583455,
+        "lon": -119.87647574877394,
+        "name": "Starbucks"
+    },
+    {
+        "color": "#9017e6",
+        "image": "https://i.imgur.com/J28PLq4.jpg",
+        "lat": 48.33709105075414,
+        "lon": -121.95633526799857,
+        "name": "Amazon"
+    },
+    {
+        "color": "#9017e6",
+        "image": "https://i.imgur.com/7i78mB6.png",
+        "lat": 48.54262900527336,
+        "lon": -122.22229709043268,
+        "name": "Microsoft"
+    },
+    {
+        "color": "#9017e6",
+        "image": "https://i.imgur.com/DnvY2as.jpg",
+        "lat": 47.314372552265375,
+        "lon": -119.80751179961077,
+        "name": "Uber"
+    }
+]
